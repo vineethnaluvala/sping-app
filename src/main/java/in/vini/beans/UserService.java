@@ -10,4 +10,5 @@ public class UserService {
 	public void printName(int id) {
 		
 	}
+int k = 100;
 }

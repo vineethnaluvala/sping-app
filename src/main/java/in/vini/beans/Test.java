@@ -9,6 +9,8 @@ public class Test {
 		ApplicationContext context = new ClassPathXmlApplicationContext("Beans.xml");
 		UserService user = context.getBean(UserService.class);
 		user.printName(1);
+int i =30;
+int j = 40;
 	}
 
 }
