@@ -3,7 +3,8 @@ package in.vini.beans;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
-public class Test {
+public class Test 
+//stash command
 
 int i = 10;
 
